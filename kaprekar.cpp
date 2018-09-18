@@ -1,7 +1,5 @@
 #include <iostream>
 
-//using namespace std;
-
 // Main information stored private in the class
 class Kaprekar
 {
