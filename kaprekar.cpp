@@ -30,8 +30,8 @@ class Kaprekar
 	// a number for research
 	void setInput()
 		{
-			//std::cout<<"\nEnter your N-digit number ";
-			//std::cout<<"(less than 18446744073709551615): ";
+			std::cout<<"\nEnter your N-digit number ";
+			std::cout<<"(less than 18446744073709551615): ";
 			std::cout<<"\nEnter numbers for research: ";
 			std::cin>>initial_in;
 			actual_in=initial_in;
